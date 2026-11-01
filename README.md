@@ -62,6 +62,8 @@ If you'd rather not build and maintain a fetcher per ATS, there's a hosted actor
 
 **https://apify.com/ponderable_hydrometer/multi-ats-jobs**
 
+If you also want job boards (LinkedIn, Indeed, Glassdoor, ZipRecruiter) next to the ATS feeds, behind one normalized schema, **[JobsPipe](https://jobspipe.dev)** is a hosted jobs API that pulls live postings from 30+ sources, including Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable and Teamtailor. It has a REST API and a remote MCP server for AI agents (`https://mcp.jobspipe.dev/mcp`), a free tier with no card, and docs at https://docs.jobspipe.dev.
+
 Longer write-up: [Skip LinkedIn/Indeed — most companies' job boards have a public JSON API](https://dev.to/ronin13/skip-linkedinindeed-most-companies-job-boards-have-a-public-json-api-48b)
 
 ## Contributing
